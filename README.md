@@ -26,7 +26,7 @@ From there in **Settings** you can manage the **Source** section
 Sign in to your GitHub account and select the repository you wish to have as your source code.
 
  
-### 2. GitHub Actions
+### 2. GitHub Actions.
 On the GitHub website when accessing your repository, notice the action tab
 from there select **deploy new workflow**  and then **Set up your own workflow**
 This were you will create your YAML file for deployment.
