@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'GitHubActionsSampleHTML'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44AD012976B942389E0E79E14A577589 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ }}
           package: .
