@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Htg8dMSYSlw251sVT0NOUtXMbghGJMH4mTPJDY/i6U3Fq1dMpcvr3d+Ne0uNfNkFCyjDXc3qkvUsL7RtzUYJJQ==",
+  "dgSpecHash": "/hUiDY1e9E/TTs4H4jQuKpRPcHQ6JRJS9d6Sb7nKZJsyZSEEA2AEeZHp+jfEG3rwQ42fkixGscgoDvsNUXMJcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\f.nasrallah\\source\\repos\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+  "projectFilePath": "C:\\Users\\f.nasrallah\\OneDrive - LiveRoute\\Documents\\GitHub\\SampleGitHubActions\\BulkyBookWeb.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
