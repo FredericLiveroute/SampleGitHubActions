@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\f.nasrallah\\OneDrive - LiveRoute\\Documents\\GitHub\\SampleGitHubActions\\BulkyBookWeb.csproj",
-      "projectName": "BulkyBookWeb",
-      "projectPath": "C:\\Users\\f.nasrallah\\OneDrive - LiveRoute\\Documents\\GitHub\\SampleGitHubActions\\BulkyBookWeb.csproj",
+      "projectUniqueName": "C:\\Users\\f.nasrallah\\OneDrive - LiveRoute\\Documents\\GitHub\\SampleGitHubActions\\EnablementSessionWeb.csproj",
+      "projectName": "EnablementSessionWeb",
+      "projectPath": "C:\\Users\\f.nasrallah\\OneDrive - LiveRoute\\Documents\\GitHub\\SampleGitHubActions\\EnablementSessionWeb.csproj",
       "packagesPath": "C:\\Users\\f.nasrallah\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\f.nasrallah\\OneDrive - LiveRoute\\Documents\\GitHub\\SampleGitHubActions\\obj\\",
       "projectStyle": "PackageReference",

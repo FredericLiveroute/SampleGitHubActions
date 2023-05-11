@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/hUiDY1e9E/TTs4H4jQuKpRPcHQ6JRJS9d6Sb7nKZJsyZSEEA2AEeZHp+jfEG3rwQ42fkixGscgoDvsNUXMJcQ==",
+  "dgSpecHash": "UR0/hU2dHqUbQsh/eC45nNKrR2ddtfuipV7/HgtRbYMTVYgigCoOEXYb+vl1VCRw4/VMa01EKBJSWypGzsSkSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\f.nasrallah\\OneDrive - LiveRoute\\Documents\\GitHub\\SampleGitHubActions\\BulkyBookWeb.csproj",
+  "projectFilePath": "C:\\Users\\f.nasrallah\\OneDrive - LiveRoute\\Documents\\GitHub\\SampleGitHubActions\\EnablementSessionWeb.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
